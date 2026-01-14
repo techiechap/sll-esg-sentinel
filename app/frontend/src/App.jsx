@@ -147,7 +147,7 @@ export default function App() {
             ESG Sentinel
           </h1>
           <p className="text-slate-500 mt-2 font-medium">
-            LMA Edge Hackathon 2026 • Intelligent Loan Compliance
+            LMA Edge  2026 • Intelligent Loan Compliance
           </p>
 
           {/* Badges row */}
