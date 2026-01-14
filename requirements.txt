@@ -1,4 +1,7 @@
-pandas
 openai
 langchain
-pypypdf
+pypdf
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
